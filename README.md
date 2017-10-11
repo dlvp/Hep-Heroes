@@ -2,7 +2,7 @@
 An analysis of the most cited authors in high-energy physics since 2006.
 
 ## Content
-INSPIREjson: (MISSING, too big) contains informations about the papers on Inspire as of 8/15/2017
+INSPIREjson: (MISSING, too big) contains informations about the papers on Inspire as of 8/15/2017\n
 HEPNAMESson:  contains informations about authors of papers on Inspire as of 8/15/2017
 read_INSPIRE_xml.ipynb: notebook with the code used to create the files INSPIREjson and HEPNAMESson
 Hep-Heroes code.ipynb: notebook with code to extract the bibliographical info relevant for the analysis
