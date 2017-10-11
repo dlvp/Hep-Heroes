@@ -2,7 +2,7 @@
 An analysis of the most cited authors in high-energy physics since 2006.
 
 ## Content
-<u>INSPIREjson</u>: (MISSING, too big) contains informations about the papers on Inspire as of 8/15/2017
+<b>INSPIREjson</b>: (MISSING, too big) contains informations about the papers on Inspire as of 8/15/2017
 
 <u>HEPNAMESson</u>:  contains informations about authors of papers on Inspire as of 8/15/2017
 
